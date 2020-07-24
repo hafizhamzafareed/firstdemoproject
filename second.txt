@@ -1,1 +1,2 @@
-second.txt in repo
+second.txt in repo 
+on line new changes from repository
